@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Carlo Digay</h1>
 <h3 align="center">A student and passionate web developer from Philippines</h3>
 
-- 👨‍💻 You can see some of my work and projects at jccd.tech
 
 - 📫 How to reach me **jccd0724@gmail.com**
 
